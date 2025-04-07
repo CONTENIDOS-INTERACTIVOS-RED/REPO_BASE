@@ -42,7 +42,7 @@ export default {
       if (!this.elements.length) return true
       const ids = this.elements.map(element => element.id)
       const idxOfSelected = ids.indexOf(this.selected)
-      return idxOfSelected === ids.length - 2
+      return idxOfSelected === ids.length - 1
     },
 
     isFirstSlide() {
