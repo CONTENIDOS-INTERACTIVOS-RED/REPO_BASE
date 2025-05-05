@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["intro"],{5167:function(n,t,a){"use strict";a.r(t);var r=function(){var n=this,t=n.$createElement,a=n._self._c||t;return a("div",{staticClass:"curso-main-container introduccion"},[a("BannerInterno",{attrs:{subTitulo:"Introducción"}}),a("div",{staticClass:"container tarjeta tarjeta--blanca p-4 p-md-5 mb-5"})],1)},c=[],e=a("2877"),i={},s=Object(e["a"])(i,r,c,!1,null,null,null);t["default"]=s.exports}}]);
+//# sourceMappingURL=intro.8960c055.js.map
